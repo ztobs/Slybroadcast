@@ -244,7 +244,7 @@ $email_admin = (isset($_COOKIE['email']))?$_COOKIE['email']:"";
             <div id="login_card" class="collapse out">
 
                 <div class="col-md-6">
-                    <h4>Api101</h4><hr>
+                    <h4>Site</h4><hr>
                     <div class="form-group">
                         <label for="email_admin">Email: </label>
                         <input type="text" value="<?php echo $email_admin; ?>" class="form-control" id="email_admin"/>
