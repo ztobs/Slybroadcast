@@ -5,15 +5,15 @@ With this tool, you can customise voice messages for diffrent numbers like menti
 
 ## Getting Started
 
-Clone the repo to your PHP www/htdocs folder
-Configure the "db.php" file to point to your database
-Import the database from sql file and delete file
-Assess the app from browser and login with "ztobscieng@gmail.com::password"
-Goto "Admin" tab and click "LOGIN"
-Update the site credentials and slybroadcast credentials (api uses this to connect to your slybroadcast account)
-Add customers audio from Admin > Customers
-Add customer group phone numbers from Admin > Customer Group
-Add campaign audio from Admin > Campaigns
+* Clone the repo to your PHP www/htdocs folder
+* Configure the "db.php" file to point to your database
+* Import the database from sql file and delete file
+* Assess the app from browser and login with "ztobscieng@gmail.com::password"
+* Goto "Admin" tab and click "LOGIN"
+* Update the site credentials and slybroadcast credentials (api uses this to connect to your slybroadcast account)
+* Add customers audio from Admin > Customers
+* Add customer group phone numbers from Admin > Customer Group
+* Add campaign audio from Admin > Campaigns
 
 Now you are set to send customized messages to your client in few clicks.
 
