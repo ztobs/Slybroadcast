@@ -1,8 +1,8 @@
 <?php
 define("HOST", "127.0.0.1");
-define('USER', '***');
-define('PASSWORD', '***');
-define('DATABASE', '***');
+define('USER', 'Slybroadcast');
+define('PASSWORD', 'Password_123');
+define('DATABASE', 'Slybroadcast');
 define('PWD_HASH', 'sha256');
 define('SESSION_HASH', 'md5');
 
